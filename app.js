@@ -78,5 +78,5 @@ app.delete('/app/:id', (req, res) => {
 });
 
 app.listen(8080, function () {
-    console.log('Todo List App is now listening on port 8080...');
+    console.log('The app is now listening on port 8080...');
 });
